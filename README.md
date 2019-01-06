@@ -7,3 +7,5 @@ Inspirado en el proyecto [gocowsay](https://github.com/flaviocopes/gocowsay) y [
 ```sh
 fortune | go run main.go
 ```
+# Screenshot
+![Screenshot](https://raw.githubusercontent.com/ArthurNavaH/Go-FoxSay/master/screenshot.png "Screenshot")
