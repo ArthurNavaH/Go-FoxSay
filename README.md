@@ -5,7 +5,10 @@ Inspirado en el proyecto [gocowsay](https://github.com/flaviocopes/gocowsay) y [
 
 ## Ejemplo de uso
 ```sh
-fortune | go run gofoxsay.go
+go get github.com/arthurnavah/gofoxsay
+
+figlet "Hola mundo" | gofoxsay
 ```
+
 ## Screenshot
 ![Screenshot](https://raw.githubusercontent.com/ArthurNavaH/gofoxsay/master/screenshot.png "Screenshot")
