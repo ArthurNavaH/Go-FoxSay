@@ -11,4 +11,4 @@ figlet "Hola mundo" | gofoxsay
 ```
 
 ## Screenshot
-![Screenshot](https://raw.githubusercontent.com/ArthurNavaH/gofoxsay/master/screenshot.png "Screenshot")
+![Screenshot](https://github.com/arthurnavah/gofoxsay/blob/master/screenshot.png "Screenshot")
